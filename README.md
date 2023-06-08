@@ -8,6 +8,27 @@ Based on this glyph library, a glyph info database is assembled, font files are 
 
 Together with other subprojects, we resolve a long-standing issue, bridge the abyss between information interchange and professional publishing.
 
+### Directory structure
+
+    .
+    └── glyph
+       ├── 4e20
+       │   └── 0
+       │       ├── default.svg
+       │       ├── kai.svg
+       │       ├── song.svg
+       │       └── KangXi_dictionary.svg
+       ├── 4e21
+       │   ├── 0
+       │   │   └── default.svg
+       │   └── e01ef
+       │       └── default.svg
+       ├── 697c
+       │   └── 0
+       │       └── default.svg
+       └── 2b744
+           └── 0
+               └── default.svg
 
 ### Processing flow --- Add a new glyph
 
